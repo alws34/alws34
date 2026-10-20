@@ -30,6 +30,6 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alws34&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alws34)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
 
 <!-- END My Stats -->
